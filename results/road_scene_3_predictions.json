@@ -1,0 +1,123 @@
+[
+    {
+        "object": "person",
+        "confidence": 0.888,
+        "bounding_box": [
+            718,
+            474,
+            848,
+            726
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.852,
+        "bounding_box": [
+            477,
+            453,
+            646,
+            530
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.786,
+        "bounding_box": [
+            640,
+            457,
+            731,
+            500
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.567,
+        "bounding_box": [
+            782,
+            461,
+            828,
+            495
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.545,
+        "bounding_box": [
+            901,
+            466,
+            948,
+            496
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.507,
+        "bounding_box": [
+            991,
+            467,
+            1049,
+            495
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.466,
+        "bounding_box": [
+            942,
+            471,
+            991,
+            495
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.438,
+        "bounding_box": [
+            845,
+            465,
+            886,
+            496
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.437,
+        "bounding_box": [
+            237,
+            425,
+            258,
+            474
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.433,
+        "bounding_box": [
+            1237,
+            464,
+            1269,
+            540
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.427,
+        "bounding_box": [
+            59,
+            431,
+            97,
+            509
+        ],
+        "source": "general_yolo"
+    }
+]

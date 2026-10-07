@@ -1,0 +1,112 @@
+[
+    {
+        "object": "person",
+        "confidence": 0.823,
+        "bounding_box": [
+            323,
+            251,
+            374,
+            345
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.756,
+        "bounding_box": [
+            351,
+            247,
+            400,
+            288
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.723,
+        "bounding_box": [
+            162,
+            243,
+            186,
+            312
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.596,
+        "bounding_box": [
+            587,
+            250,
+            621,
+            348
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "bus",
+        "confidence": 0.575,
+        "bounding_box": [
+            303,
+            222,
+            345,
+            264
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.556,
+        "bounding_box": [
+            85,
+            252,
+            130,
+            334
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.556,
+        "bounding_box": [
+            281,
+            249,
+            309,
+            334
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.463,
+        "bounding_box": [
+            434,
+            247,
+            473,
+            351
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.421,
+        "bounding_box": [
+            0,
+            257,
+            15,
+            330
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "bus",
+        "confidence": 0.392,
+        "bounding_box": [
+            349,
+            220,
+            385,
+            249
+        ],
+        "source": "general_yolo"
+    }
+]

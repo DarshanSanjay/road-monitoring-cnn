@@ -1,0 +1,211 @@
+[
+    {
+        "object": "person",
+        "confidence": 0.859,
+        "bounding_box": [
+            120,
+            180,
+            179,
+            294
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.821,
+        "bounding_box": [
+            8,
+            176,
+            66,
+            305
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.732,
+        "bounding_box": [
+            435,
+            182,
+            474,
+            307
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.706,
+        "bounding_box": [
+            303,
+            189,
+            339,
+            300
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.693,
+        "bounding_box": [
+            377,
+            186,
+            417,
+            288
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.689,
+        "bounding_box": [
+            332,
+            179,
+            393,
+            304
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.652,
+        "bounding_box": [
+            54,
+            187,
+            96,
+            299
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.648,
+        "bounding_box": [
+            225,
+            165,
+            278,
+            294
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.631,
+        "bounding_box": [
+            517,
+            192,
+            547,
+            311
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.592,
+        "bounding_box": [
+            271,
+            183,
+            309,
+            292
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.564,
+        "bounding_box": [
+            158,
+            177,
+            203,
+            285
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "truck",
+        "confidence": 0.534,
+        "bounding_box": [
+            0,
+            131,
+            37,
+            241
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.51,
+        "bounding_box": [
+            80,
+            179,
+            164,
+            264
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.438,
+        "bounding_box": [
+            463,
+            177,
+            500,
+            303
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "car",
+        "confidence": 0.438,
+        "bounding_box": [
+            79,
+            179,
+            243,
+            261
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "person",
+        "confidence": 0.434,
+        "bounding_box": [
+            232,
+            188,
+            272,
+            294
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "bus",
+        "confidence": 0.422,
+        "bounding_box": [
+            359,
+            126,
+            395,
+            170
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "bus",
+        "confidence": 0.351,
+        "bounding_box": [
+            391,
+            132,
+            439,
+            163
+        ],
+        "source": "general_yolo"
+    },
+    {
+        "object": "stop",
+        "confidence": 0.628,
+        "bounding_box": [
+            416,
+            214,
+            439,
+            243
+        ],
+        "source": "traffic_sign_yolo"
+    }
+]
